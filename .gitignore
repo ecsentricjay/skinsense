@@ -1,0 +1,8 @@
+model_weights.h5
+model_architecture.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
